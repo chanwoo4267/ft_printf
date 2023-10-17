@@ -16,6 +16,7 @@
       <a href="#summary">Summary</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#spent-time">Spent Time</a></li>
       </ul>
     </li>
     <li>
@@ -42,6 +43,10 @@ You will mainly learn about using a variable number of arguments. How cool is th
 * [![C][C-shield]][C-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Spent Time
+22.11.16 ~ 22.11.25
 
 
 ## About The Project
